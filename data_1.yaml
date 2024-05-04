@@ -8,5 +8,5 @@ roboflow:
   version: 2
   workspace: augmented-startups
 test: ../test/images
-train: Vehicle-Registration-Plates-2/train/images
-val: Vehicle-Registration-Plates-2/valid/images
+train: /kaggle/working/Helmet-Number-Plate-Detection/Vehicle-Registration-Plates-2/train/images
+val: /kaggle/working/Helmet-Number-Plate-Detection/Vehicle-Registration-Plates-2/valid/images
